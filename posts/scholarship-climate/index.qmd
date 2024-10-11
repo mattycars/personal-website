@@ -1,0 +1,9 @@
+---
+title: "Anthropogenic Climate Change and the Earth’s Changing Landscape"
+date: "2024-5-24"
+categories: [Data Viz, Sustainability]
+image: "utah.jpg"
+---
+I submitted this project as a part of an application for a scholarship available to returning Georgetown Data Science students. The prompt was to use data visualization to tell a story about climate data in Southeastern Utah they provided us. We were given a week to come up with a submission. I ended up winning the scholarship!
+
+The project is hosted [here](https://mattycars.github.io/scholarship/). 

@@ -1,0 +1,18 @@
+---
+title: "Using Deep Learning for Avalanche Detection with Ground-Based Photography"
+date: "2024-8-8"
+categories: [Deep Learning]
+image: "avalanche.jpg"
+---
+
+In this project. I use raw image data and Convolutional Neural Networks (CNNs) to predict avalanches.
+
+This project was completed as a part of a Computer Vision class I took at Georgetown.
+
+All code for this project can be found [here](https://drive.google.com/drive/folders/1xwRCqHGi_5uGJSOy6vS750eqBVABIDEY?usp=drive_link). Because the dataset was so large, I worked in Google Colab. I am lazy and have yet to set up git for this project, so for now, it is resting on GoogleDrive.
+
+<iframe 
+  width="800" 
+  height="800" 
+  src="avalanche.pdf">
+</iframe>

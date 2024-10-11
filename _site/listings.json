@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/portfolio.html",
+    "items": [
+      "/posts/avalanche-detection/index.html",
+      "/posts/scholarship-climate/index.html",
+      "/posts/horse-racing/index.html",
+      "/posts/lower-james/index.html"
+    ]
+  }
+]

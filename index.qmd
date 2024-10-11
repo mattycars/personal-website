@@ -1,0 +1,16 @@
+---
+page-layout: full
+title-block-banner: false
+format: 
+  html:
+    css: custom.css  # Link to your custom CSS (if needed)
+---
+
+<h1 style="text-align: center; margin-top: 50vh; transform: translateY(-200%); font-size: 4em;">
+    Welcome to My Website.
+</h1>
+
+<p style="text-align: center; font-size: 1.5em; margin-top: -150px;">
+    A home for all of my thoughts. More content to come...<br><br>
+    For now, feel free to click <a href="about.qmd">here</a> to learn more about me or <a href="#portfolio.qmd">here</a> to see what kind of projects I have been working on.
+</p>

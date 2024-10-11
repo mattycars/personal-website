@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello! Matt here. Welcome to my website. I am currently a second year graduate student in the Data Science and Analytics program at Georgetown University. I am graduating early this Winter and am currently looking for a full-time work opportunity in the data science field. I graduated undergrad from the University of Virginia in 2022 with a degree in Statistics and Econometrics.\nMy interests exist in some sort of vast Euclidean space between AI/deep learning, economics, sports and sports handicapping, tech, and sustainability. I also am a marathoner, snowboarder, mountaineer, SCUBA diver, and beginner skydiver who is always up for an adventure. Enjoy your stay here and feel free to reach out about anything!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nWelcome to My Website.\n",
+    "section": "",
+    "text": "Welcome to My Website.\n\n\nA home for all of my thoughts. More content to come… For now, feel free to click here to learn more about me or here to see what kind of projects I have been working on."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Project Portfolio",
+    "section": "",
+    "text": "Using Deep Learning for Avalanche Detection with Ground-Based Photography\n\n\n\n\n\n\n\nDeep Learning\n\n\n\n\n\n\n\n\n\n\n\nAug 8, 2024\n\n\n\n\n\n\n  \n\n\n\n\nAnthropogenic Climate Change and the Earth’s Changing Landscape\n\n\n\n\n\n\n\nData Viz\n\n\nSustainability\n\n\n\n\n\n\n\n\n\n\n\nMay 24, 2024\n\n\n\n\n\n\n  \n\n\n\n\nPredicting Horse Racing Winners at the Hong Kong Jockey Club (HKJC)\n\n\n\n\n\n\n\nSports\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\nWater Quality in the Lower James Can Help Explain Phytoplankton Levels in the Chesapeake Bay\n\n\n\n\n\n\n\nData Viz\n\n\nSustainability\n\n\nTime Series\n\n\n\n\n\n\n\n\n\n\n\nDec 15, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/avalanche-detection/index.html",
+    "href": "posts/avalanche-detection/index.html",
+    "title": "Using Deep Learning for Avalanche Detection with Ground-Based Photography",
+    "section": "",
+    "text": "In this project. I use raw image data and Convolutional Neural Networks (CNNs) to predict avalanches.\nThis project was completed as a part of a Computer Vision class I took at Georgetown.\nAll code for this project can be found here. Because the dataset was so large, I worked in Google Colab. I am lazy and have yet to set up git for this project, so for now, it is resting on GoogleDrive."
+  },
+  {
+    "objectID": "posts/horse-racing/index.html",
+    "href": "posts/horse-racing/index.html",
+    "title": "Predicting Horse Racing Winners at the Hong Kong Jockey Club (HKJC)",
+    "section": "",
+    "text": "In this project, I predict horse racing winners and podium finishers at the Hong Kong Jockey Club. I use a variety of statistical methods including Naive Bayes, Random Forests, AdaBoost Models, and Gradient Boosting, specifically XGBoost.\nThis project was completed as a part of DSAN 5000: Data Science and Analysis, an intro class in my first semester at Georgetown.\nThe link to project is hosted on a website found at this link."
+  },
+  {
+    "objectID": "posts/scholarship-climate/index.html",
+    "href": "posts/scholarship-climate/index.html",
+    "title": "Anthropogenic Climate Change and the Earth’s Changing Landscape",
+    "section": "",
+    "text": "I submitted this project as a part of an application for a scholarship available to returning Georgetown Data Science students. The prompt was to use data visualization to tell a story about climate data in Southeastern Utah they provided us. We were given a week to come up with a submission. I ended up winning the scholarship!\nThe project is hosted here."
+  }
+]

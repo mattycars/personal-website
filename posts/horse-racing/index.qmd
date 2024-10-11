@@ -1,0 +1,12 @@
+---
+title: "Predicting Horse Racing Winners at the Hong Kong Jockey Club (HKJC)"
+date: "2023-12-18"
+categories: [Sports]
+image: "horse-racing.jpg"
+---
+
+In this project, I predict horse racing winners and podium finishers at the Hong Kong Jockey Club. I use a variety of statistical methods including Naive Bayes, Random Forests, AdaBoost Models, and Gradient Boosting, specifically XGBoost.
+
+This project was completed as a part of DSAN 5000: Data Science and Analysis, an intro class in my first semester at Georgetown.
+
+The link to project is hosted on a website found at [this link](https://mattcarswell.georgetown.domains/introduction/introduction.html).
