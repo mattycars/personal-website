@@ -1,0 +1,23 @@
+---
+title: "NFL Home & Away Performance Analysis"
+date: "2023-11-23"
+categories: [Data Viz, Sports]
+image: "nfl.jpg"
+---
+In this project, I, along with a group, explore how NFL teams perform when they are the home team versus when they are the away team. We were able to quantify home field advantage by looking at a variety of NFL data including game-by-game data, win probabilities, and Elo ratings created by FiveThirtyEight. All code can be found [here](https://github.com/anly512/5300-project-group-29.git).
+
+Below you will find the presentation we delivered to faculty on our analysis which provides a general overview of our project and its findings.
+
+<iframe 
+  width="800" 
+  height="800" 
+  src="DSAN-5100 Group 17 Project-1.pdf">
+</iframe>
+
+And here is the more detailed final report we created.
+
+<iframe 
+  width="800" 
+  height="800" 
+  src="DSAN-5100 Project Report.pdf">
+</iframe>

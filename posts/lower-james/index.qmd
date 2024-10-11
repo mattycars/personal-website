@@ -2,8 +2,10 @@
 title: "Water Quality in the Lower James Can Help Explain Phytoplankton Levels in the Chesapeake Bay"
 date: "2023-12-15"
 categories: [Data Viz, Sustainability, Time Series]
-image: "utah.jpg"
+image: "james-river-watershed.png"
 ---
+This project explores data from the Lower James watershed, my hometown water shed, and how climate change has impacted it, along with the Chesapeake Bay downstream.
+
 I completed this project as a final project for a class during my first semester as a Georgetown student. The class was Data Science for a Changing Climate.
 
 All code can be found [here](https://github.com/mattycars/STIAFinalProject.git).

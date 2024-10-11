@@ -32,7 +32,7 @@
     "href": "portfolio.html",
     "title": "Project Portfolio",
     "section": "",
-    "text": "Using Deep Learning for Avalanche Detection with Ground-Based Photography\n\n\n\n\n\n\n\nDeep Learning\n\n\n\n\n\n\n\n\n\n\n\nAug 8, 2024\n\n\n\n\n\n\n  \n\n\n\n\nAnthropogenic Climate Change and the Earth’s Changing Landscape\n\n\n\n\n\n\n\nData Viz\n\n\nSustainability\n\n\n\n\n\n\n\n\n\n\n\nMay 24, 2024\n\n\n\n\n\n\n  \n\n\n\n\nPredicting Horse Racing Winners at the Hong Kong Jockey Club (HKJC)\n\n\n\n\n\n\n\nSports\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\nWater Quality in the Lower James Can Help Explain Phytoplankton Levels in the Chesapeake Bay\n\n\n\n\n\n\n\nData Viz\n\n\nSustainability\n\n\nTime Series\n\n\n\n\n\n\n\n\n\n\n\nDec 15, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "Using Deep Learning for Avalanche Detection with Ground-Based Photography\n\n\n\n\n\n\n\nDeep Learning\n\n\n\n\n\n\n\n\n\n\n\nAug 8, 2024\n\n\n\n\n\n\n  \n\n\n\n\nAnthropogenic Climate Change and the Earth’s Changing Landscape\n\n\n\n\n\n\n\nData Viz\n\n\nSustainability\n\n\n\n\n\n\n\n\n\n\n\nMay 24, 2024\n\n\n\n\n\n\n  \n\n\n\n\nPredicting Horse Racing Winners at the Hong Kong Jockey Club (HKJC)\n\n\n\n\n\n\n\nSports\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\nWater Quality in the Lower James Can Help Explain Phytoplankton Levels in the Chesapeake Bay\n\n\n\n\n\n\n\nData Viz\n\n\nSustainability\n\n\nTime Series\n\n\n\n\n\n\n\n\n\n\n\nDec 15, 2023\n\n\n\n\n\n\n  \n\n\n\n\nNFL Home & Away Performance Analysis\n\n\n\n\n\n\n\nData Viz\n\n\nSports\n\n\n\n\n\n\n\n\n\n\n\nNov 23, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/avalanche-detection/index.html",
@@ -54,5 +54,19 @@
     "title": "Anthropogenic Climate Change and the Earth’s Changing Landscape",
     "section": "",
     "text": "I submitted this project as a part of an application for a scholarship available to returning Georgetown Data Science students. The prompt was to use data visualization to tell a story about climate data in Southeastern Utah they provided us. We were given a week to come up with a submission. I ended up winning the scholarship!\nThe project is hosted here."
+  },
+  {
+    "objectID": "posts/lower-james/index.html",
+    "href": "posts/lower-james/index.html",
+    "title": "Water Quality in the Lower James Can Help Explain Phytoplankton Levels in the Chesapeake Bay",
+    "section": "",
+    "text": "This project explores data from the Lower James watershed, my hometown water shed, and how climate change has impacted it, along with the Chesapeake Bay downstream.\nI completed this project as a final project for a class during my first semester as a Georgetown student. The class was Data Science for a Changing Climate.\nAll code can be found here."
+  },
+  {
+    "objectID": "posts/nfl-homefield/index.html",
+    "href": "posts/nfl-homefield/index.html",
+    "title": "NFL Home & Away Performance Analysis",
+    "section": "",
+    "text": "In this project, I, along with a group, explore how NFL teams perform when they are the home team versus when they are the away team. We were able to quantify home field advantage by looking at a variety of NFL data including game-by-game data, win probabilities, and Elo ratings created by FiveThirtyEight. All code can be found here.\nBelow you will find the presentation we delivered to faculty on our analysis which provides a general overview of our project and its findings.\n\n\nAnd here is the more detailed final report we created."
   }
 ]
