@@ -32,21 +32,21 @@
     "href": "portfolio.html",
     "title": "Project Portfolio",
     "section": "",
-    "text": "Using Deep Learning for Avalanche Detection with Ground-Based Photography\n\n\n\n\n\n\n\nDeep Learning\n\n\n\n\n\n\n\n\n\n\n\nAug 8, 2024\n\n\n\n\n\n\n  \n\n\n\n\nAnthropogenic Climate Change and the Earth’s Changing Landscape\n\n\n\n\n\n\n\nData Viz\n\n\nSustainability\n\n\n\n\n\n\n\n\n\n\n\nMay 24, 2024\n\n\n\n\n\n\n  \n\n\n\n\nPredicting Horse Racing Winners at the Hong Kong Jockey Club (HKJC)\n\n\n\n\n\n\n\nSports\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\nWater Quality in the Lower James Can Help Explain Phytoplankton Levels in the Chesapeake Bay\n\n\n\n\n\n\n\nData Viz\n\n\nSustainability\n\n\nTime Series\n\n\n\n\n\n\n\n\n\n\n\nDec 15, 2023\n\n\n\n\n\n\n  \n\n\n\n\nNFL Home & Away Performance Analysis\n\n\n\n\n\n\n\nData Viz\n\n\nSports\n\n\n\n\n\n\n\n\n\n\n\nNov 23, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "Using Deep Learning for Avalanche Detection with Ground-Based Photography\n\n\n\n\n\n\n\nDeep Learning\n\n\n\n\n\n\n\n\n\n\n\nAug 8, 2024\n\n\n\n\n\n\n  \n\n\n\n\nAnthropogenic Climate Change and the Earth’s Changing Landscape\n\n\n\n\n\n\n\nData Viz\n\n\nSustainability\n\n\n\n\n\n\n\n\n\n\n\nMay 24, 2024\n\n\n\n\n\n\n  \n\n\n\n\nMarch Madness\n\n\n\n\n\n\n\nMachine Learning\n\n\nDeep Learning\n\n\nSports\n\n\n\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n\n\n\n\n  \n\n\n\n\nVisualizing Car Thefts in DC\n\n\n\n\n\n\n\nData Viz\n\n\nTime Series\n\n\n\n\n\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n  \n\n\n\n\nDaily Stock Market Report ETL Pipeline\n\n\n\n\n\n\n\nData Viz\n\n\nTime Series\n\n\n\n\n\n\n\n\n\n\n\nMay 1, 2024\n\n\n\n\n\n\n  \n\n\n\n\nPredicting Horse Racing Winners at the Hong Kong Jockey Club (HKJC)\n\n\n\n\n\n\n\nMachine Learning\n\n\nSports\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\nWater Quality in the Lower James Can Help Explain Phytoplankton Levels in the Chesapeake Bay\n\n\n\n\n\n\n\nData Viz\n\n\nSustainability\n\n\nTime Series\n\n\n\n\n\n\n\n\n\n\n\nDec 15, 2023\n\n\n\n\n\n\n  \n\n\n\n\nNFL Home & Away Performance Analysis\n\n\n\n\n\n\n\nData Viz\n\n\nSports\n\n\n\n\n\n\n\n\n\n\n\nNov 23, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/avalanche-detection/index.html",
     "href": "posts/avalanche-detection/index.html",
     "title": "Using Deep Learning for Avalanche Detection with Ground-Based Photography",
     "section": "",
-    "text": "In this project. I use raw image data and Convolutional Neural Networks (CNNs) to predict avalanches.\nThis project was completed as a part of a Computer Vision class I took at Georgetown.\nAll code for this project can be found here. Because the dataset was so large, I worked in Google Colab. I am lazy and have yet to set up git for this project, so for now, it is resting on GoogleDrive."
+    "text": "In this project. I use raw image data and Convolutional Neural Networks (CNNs) to predict avalanches. I was able to develop a model with an accuracy of 77.7% in predicting avalanches and an accuracy of 80.6% for the TYPE of avalanche.\nThis project was completed as a part of a Computer Vision class I took at Georgetown.\nAll code for this project can be found here. Because the dataset was so large, I worked in Google Colab. I have yet to set up git for this project due to complications in having git set up in conjunction with Google Colab, so for now, it is resting on GoogleDrive."
   },
   {
     "objectID": "posts/horse-racing/index.html",
     "href": "posts/horse-racing/index.html",
     "title": "Predicting Horse Racing Winners at the Hong Kong Jockey Club (HKJC)",
     "section": "",
-    "text": "In this project, I predict horse racing winners and podium finishers at the Hong Kong Jockey Club. I use a variety of statistical methods including Naive Bayes, Random Forests, AdaBoost Models, and Gradient Boosting, specifically XGBoost.\nThis project was completed as a part of DSAN 5000: Data Science and Analysis, an intro class in my first semester at Georgetown.\nThe link to project is hosted on a website found at this link."
+    "text": "In this project, I predict horse racing winners and podium finishers at the Hong Kong Jockey Club. I use a variety of statistical methods including Naive Bayes, Random Forests, AdaBoost Models, and Gradient Boosting, specifically XGBoost. I was able to develop a model that, at the 1200m distance, under a specific set of race conditions, can predict horse racing finishers with around a 50% precision.\nThis project was completed as a part of DSAN 5000: Data Science and Analysis, an intro class in my first semester at Georgetown.\nThe link to project is hosted on a website found at this link."
   },
   {
     "objectID": "posts/scholarship-climate/index.html",
@@ -68,5 +68,26 @@
     "title": "NFL Home & Away Performance Analysis",
     "section": "",
     "text": "In this project, I, along with a group, explore how NFL teams perform when they are the home team versus when they are the away team. We were able to quantify home field advantage by looking at a variety of NFL data including game-by-game data, win probabilities, and Elo ratings created by FiveThirtyEight. All code can be found here.\nBelow you will find the presentation we delivered to faculty on our analysis which provides a general overview of our project and its findings.\n\n\nAnd here is the more detailed final report we created."
+  },
+  {
+    "objectID": "posts/stocks/index.html",
+    "href": "posts/stocks/index.html",
+    "title": "Daily Stock Market Report ETL Pipeline",
+    "section": "",
+    "text": "In this project, I worked with a couple partners to develop an Extract, Transform, and Load (ETL) pipeline that extracts stock market data from Polygon.io’s stock API and then creates a daily report before the market opens that day, highlighting market performance of the previous trading day. The pipeline runs automatically every morning with the help of a deployment on Prefect and sends us an email of the created stock report."
+  },
+  {
+    "objectID": "posts/march-madness/index.html",
+    "href": "posts/march-madness/index.html",
+    "title": "March Madness",
+    "section": "",
+    "text": "In this project, 3 other group members and I developed a project that explores what goes into an upset in the NCAA Basektball Division I March Madness Tournament. We were able to develop a model that is able to predict upsets with a 78% accuracy. We explored various ML/DL techniques such as logistic regression, support vector machines (SVMs), and artificial neural networks (ANNs).\nBelow is the poster we presented to faculty in the Georgetown Data Science program.\n\n\nBelow is the full report we created for the project.\n\n\nAll code can be found here."
+  },
+  {
+    "objectID": "posts/car-theft/index.html",
+    "href": "posts/car-theft/index.html",
+    "title": "Visualizing Car Thefts in DC",
+    "section": "",
+    "text": "In this project, I worked with 3 other group members to visualize how car thefts in DC have increased over recent years. We took a look at where cars are being stolen in DC, what time of day they are being stolen, what types of cars are being stolen, and who is stealing the cars. We do all of these analyses through a “scrollytelling” to find WHY car thefts are increasing in DC.\nThe project can be at this link, hosted by one of of my peers that I worked on the project with."
   }
 ]

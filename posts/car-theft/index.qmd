@@ -1,0 +1,10 @@
+---
+title: "Visualizing Car Thefts in DC"
+date: "2024-05-03"
+categories: [Data Viz, Time Series]
+image: "dc.jpg"
+---
+
+In this project, I worked with 3 other group members to visualize how car thefts in DC have increased over recent years. We took a look at where cars are being stolen in DC, what time of day they are being stolen, what types of cars are being stolen, and who is stealing the cars. We do all of these analyses through a "scrollytelling" to find WHY car thefts are increasing in DC.
+
+The project can be at [this link](https://mfgeary.github.io/dsan5200-project/), hosted by one of of my peers that I worked on the project with.

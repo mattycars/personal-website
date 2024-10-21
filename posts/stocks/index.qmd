@@ -1,0 +1,14 @@
+---
+title: "Daily Stock Market Report ETL Pipeline"
+date: "2024-05-01"
+categories: [Data Viz, Time Series]
+image: "stocks.jfif"
+---
+
+In this project, I worked with a couple partners to develop an Extract, Transform, and Load (ETL) pipeline that extracts stock market data from Polygon.io's stock API and then creates a daily report before the market opens that day, highlighting market performance of the previous trading day. The pipeline runs automatically every morning with the help of a deployment on Prefect and sends us an email of the created stock report.
+
+<iframe 
+  width="800" 
+  height="800" 
+  src="DSAN_5500_Final_Project.pdf">
+</iframe>

@@ -1,0 +1,26 @@
+---
+title: "March Madness"
+date: "2024-05-15"
+categories: [Machine Learning, Deep Learning, Sports]
+image: "march-madness.jpg"
+---
+
+In this project, 3 other group members and I developed a project that explores what goes into an upset in the NCAA Basektball Division I March Madness Tournament. We were able to develop a model that is able to predict upsets with a 78% accuracy. We explored various ML/DL techniques such as logistic regression, support vector machines (SVMs), and artificial neural networks (ANNs).
+
+Below is the poster we presented to faculty in the Georgetown Data Science program.
+
+<iframe 
+  width="800" 
+  height="800" 
+  src="Group 29 DSAN-5300 Poster.pdf">
+</iframe>
+
+Below is the full report we created for the project.
+
+<iframe 
+  width="800" 
+  height="800" 
+  src="Group 29 DSAN 5300 Final Report.pdf">
+</iframe>
+
+All code can be found [here](https://github.com/anly512/5300-project-group-29.git).
