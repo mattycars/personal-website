@@ -5,6 +5,9 @@
     ],
     "portfolio.qmd": [
       "posts"
+    ],
+    "resume.qmd": [
+      "posts"
     ]
   }
 }

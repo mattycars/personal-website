@@ -37,5 +37,11 @@
   },
   "posts/car-theft/index.qmd": {
     "index.html": "eea770c2"
+  },
+  "resume.qmd": {
+    "resume.html": "90ff7256"
+  },
+  "resume/resume.qmd": {
+    "resume.html": "46e674cd"
   }
 }

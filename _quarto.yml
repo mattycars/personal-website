@@ -14,7 +14,7 @@ website:
         text: Home
       - href: portfolio.qmd
         text: Projects
-      - href: resume.qmd
+      - href: resume/resume.qmd
         text: Resume
     
     right:
