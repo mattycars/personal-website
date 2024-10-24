@@ -1,12 +1,6 @@
 {
   "listingMap": {
-    "index.qmd": [
-      "posts"
-    ],
     "portfolio.qmd": [
-      "posts"
-    ],
-    "resume.qmd": [
       "posts"
     ]
   }

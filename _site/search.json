@@ -1,10 +1,31 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/horse-racing/index.html",
+    "href": "posts/horse-racing/index.html",
+    "title": "Predicting Horse Racing Winners at the Hong Kong Jockey Club (HKJC)",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "In this project, I predict horse racing winners and podium finishers at the Hong Kong Jockey Club. I use a variety of statistical methods including Naive Bayes, Random Forests, AdaBoost Models, and Gradient Boosting, specifically XGBoost. I was able to develop a model that, at the 1200m distance, under a specific set of race conditions, can predict horse racing finishers with around a 50% precision.\nThis project was completed as a part of DSAN 5000: Data Science and Analysis, an intro class in my first semester at Georgetown.\nThe link to project is hosted on a website found at this link."
+  },
+  {
+    "objectID": "posts/march-madness/index.html",
+    "href": "posts/march-madness/index.html",
+    "title": "March Madness",
+    "section": "",
+    "text": "In this project, 3 other group members and I developed a project that explores what goes into an upset in the NCAA Basektball Division I March Madness Tournament. We were able to develop a model that is able to predict upsets with a 78% accuracy. We explored various ML/DL techniques such as logistic regression, support vector machines (SVMs), and artificial neural networks (ANNs).\nBelow is the poster we presented to faculty in the Georgetown Data Science program.\n\n\nBelow is the full report we created for the project.\n\n\nAll code can be found here."
+  },
+  {
+    "objectID": "posts/stocks/index.html",
+    "href": "posts/stocks/index.html",
+    "title": "Daily Stock Market Report ETL Pipeline",
+    "section": "",
+    "text": "In this project, I worked with a couple partners to develop an Extract, Transform, and Load (ETL) pipeline that extracts stock market data from Polygon.io’s stock API and then creates a daily report before the market opens that day, highlighting market performance of the previous trading day. The pipeline runs automatically every morning with the help of a deployment on Prefect and sends us an email of the created stock report."
+  },
+  {
+    "objectID": "posts/car-theft/index.html",
+    "href": "posts/car-theft/index.html",
+    "title": "Visualizing Car Thefts in DC",
+    "section": "",
+    "text": "In this project, I worked with 3 other group members to visualize how car thefts in DC have increased over recent years. We took a look at where cars are being stolen in DC, what time of day they are being stolen, what types of cars are being stolen, and who is stealing the cars. We do all of these analyses through a “scrollytelling” to find WHY car thefts are increasing in DC.\nThe project can be at this link, hosted by one of of my peers that I worked on the project with."
   },
   {
     "objectID": "about.html",
@@ -21,13 +42,6 @@
     "text": "Welcome to My Website.\n\n\nA home for all of my thoughts. More content to come… For now, feel free to click here to learn more about me or here to see what kind of projects I have been working on."
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
-  },
-  {
     "objectID": "portfolio.html",
     "href": "portfolio.html",
     "title": "Project Portfolio",
@@ -40,13 +54,6 @@
     "title": "Using Deep Learning for Avalanche Detection with Ground-Based Photography",
     "section": "",
     "text": "In this project. I use raw image data and Convolutional Neural Networks (CNNs) to predict avalanches. I was able to develop a model with an accuracy of 77.7% in predicting avalanches and an accuracy of 80.6% for the TYPE of avalanche.\nThis project was completed as a part of a Computer Vision class I took at Georgetown.\nAll code for this project can be found here. Because the dataset was so large, I worked in Google Colab. I have yet to set up git for this project due to complications in having git set up in conjunction with Google Colab, so for now, it is resting on GoogleDrive."
-  },
-  {
-    "objectID": "posts/horse-racing/index.html",
-    "href": "posts/horse-racing/index.html",
-    "title": "Predicting Horse Racing Winners at the Hong Kong Jockey Club (HKJC)",
-    "section": "",
-    "text": "In this project, I predict horse racing winners and podium finishers at the Hong Kong Jockey Club. I use a variety of statistical methods including Naive Bayes, Random Forests, AdaBoost Models, and Gradient Boosting, specifically XGBoost. I was able to develop a model that, at the 1200m distance, under a specific set of race conditions, can predict horse racing finishers with around a 50% precision.\nThis project was completed as a part of DSAN 5000: Data Science and Analysis, an intro class in my first semester at Georgetown.\nThe link to project is hosted on a website found at this link."
   },
   {
     "objectID": "posts/scholarship-climate/index.html",
@@ -68,33 +75,5 @@
     "title": "NFL Home & Away Performance Analysis",
     "section": "",
     "text": "In this project, I, along with a group, explore how NFL teams perform when they are the home team versus when they are the away team. We were able to quantify home field advantage by looking at a variety of NFL data including game-by-game data, win probabilities, and Elo ratings created by FiveThirtyEight. All code can be found here.\nBelow you will find the presentation we delivered to faculty on our analysis which provides a general overview of our project and its findings.\n\n\nAnd here is the more detailed final report we created."
-  },
-  {
-    "objectID": "posts/stocks/index.html",
-    "href": "posts/stocks/index.html",
-    "title": "Daily Stock Market Report ETL Pipeline",
-    "section": "",
-    "text": "In this project, I worked with a couple partners to develop an Extract, Transform, and Load (ETL) pipeline that extracts stock market data from Polygon.io’s stock API and then creates a daily report before the market opens that day, highlighting market performance of the previous trading day. The pipeline runs automatically every morning with the help of a deployment on Prefect and sends us an email of the created stock report."
-  },
-  {
-    "objectID": "posts/march-madness/index.html",
-    "href": "posts/march-madness/index.html",
-    "title": "March Madness",
-    "section": "",
-    "text": "In this project, 3 other group members and I developed a project that explores what goes into an upset in the NCAA Basektball Division I March Madness Tournament. We were able to develop a model that is able to predict upsets with a 78% accuracy. We explored various ML/DL techniques such as logistic regression, support vector machines (SVMs), and artificial neural networks (ANNs).\nBelow is the poster we presented to faculty in the Georgetown Data Science program.\n\n\nBelow is the full report we created for the project.\n\n\nAll code can be found here."
-  },
-  {
-    "objectID": "posts/car-theft/index.html",
-    "href": "posts/car-theft/index.html",
-    "title": "Visualizing Car Thefts in DC",
-    "section": "",
-    "text": "In this project, I worked with 3 other group members to visualize how car thefts in DC have increased over recent years. We took a look at where cars are being stolen in DC, what time of day they are being stolen, what types of cars are being stolen, and who is stealing the cars. We do all of these analyses through a “scrollytelling” to find WHY car thefts are increasing in DC.\nThe project can be at this link, hosted by one of of my peers that I worked on the project with."
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "MATTHEW CARSWELL msc301@georgetown.edu | (804) 814-6656 | www.linkedin.com/in/matthew-carswell-7977b3206/\nEDUCATION Georgetown University – MS in Data Science and Analytics August 2023 - December 2024 (exp.) GPA: 3.96  Extracurriculars: Teaching Assistant for Summer Coding Bootcamp for incoming data science students  Awards: Awarded merit scholarship upon admission, awarded Returning Student Scholarship with a winning project of “Anthropogenic Climate Change and the Earth’s Changing Landscape” University of Virginia – BA in Statistics (conc. Econometrics) August 2018 - May 2022 GPA: 3.60  Extracurriculars: Co-Founder of Sports Analytics at UVA, Analyst for Frank Batten Investment Fund Relevant Coursework: Deep Learning, Computer Vision, Big Data/Cloud Computing, Machine Learning, Advanced Data Viz, Applied Time Series, Mathematical Statistics, Linear Algebra, Differential Equations, Cybersecurity/IT WORK EXPERIENCE Montgomery County Green Bank – Rockville, MD June 2024 – Present Investment Associate  Designed a Board-adopted subsidy sizing model for the bank’s energy benchmarking program, determining subsidy amounts for properties based on a mathematical approach that prioritizes underserved communities  Formulated climate-safe agriculture metrics for the bank and private lenders to integrate into their underwriting process, offering tools to evaluate and invest in climate-resilient agricultural practices  Lead data visualization efforts using Tableau and Python, creating visuals for Investment Committee Memos, fundraising pitches, and internal support resources  Analyze real estate data and financial statements using Python and Excel to assess risk across various industry sectors and financial instruments in the bank’s portfolio at both market and individual investment levels Weris – Sterling, VA June 2022 – June 2024 Market Research and Data Analyst  Created a public-facing Work Plan for the Bureau of Transportation Statistics (BTS) that proposes new national data products for local transportation decision makers, ultimately being presented to the Secretary of Transportation and Congress ( https://rosap.ntl.bts.gov/view/dot/67912 )  Solicited the input of the nation’s leading experts on freight transportation and wrote an 80-page report for BTS that provides recommendations to their public freight-related statistics program  Constructed labor cost models in Excel and serve as a technical writer for government contract proposals Resultid.ai (2020 TechStars Startup) – San Francisco, CA (remote) January 2021 – April 2022\nInvestment Analyst and Content Writer\n Assessed innovative technological inventions from leading institutions in life and physical sciences to determine their market potential for NC State’s 2021 & 2022 Chancellor Innovation Fund  Completed 12 investment reports on technologies, 5 of which ended up receiving seed funding from NC State  Managed and wrote a weekly market insight series on Resultid’s blog page Advent International Global Private Equity – Boston, MA June 2021 – August 2021\nData Science Intern\n Assisted with the development of an automated feed of general ledger data between PeopleSoft and the budgeting & forecasting system via SQL code to query, transform, and upload the data  Built out numerous Tableau dashboards for P&L expense categories comparing monthly and year-to-date actuals to prior years and forecasts, to augment the monthly variance analysis process  Developed solutions for calculating IRR within a Tableau dashboard of investment results, ultimately coding a customized function with R to dynamically calculate IRR across various segments of data\nKEY SKILLS AND INTERESTS Technical Skills: Python, R, SQL, MATLAB, Tableau, SAS, Observable JavaScript/D3, AWS, Azure, Apache Spark and Hadoop, Bash, Git, Quarto, Excel, VBA, HTML/CSS Languages: Spanish: Intermediate Proficiency / Polish: Beginner Proficiency Interests: AI/ML, Economics, Sustainability, Marathoning, SCUBA, Snowboarding, Skydiving"
   }
 ]
