@@ -13,7 +13,7 @@ about:
 
 ---
 
-Hello! Matt here. Welcome to my website. I am currently a second year graduate student in the Data Science and Analytics program at Georgetown University. I am graduating early this Winter and am currently looking for a full-time work opportunity in the data science field. I graduated undergrad from the University of Virginia in 2022 with a degree in Statistics and Econometrics. 
+Hello! Matt here. Welcome to my website. I just graduated from the Data Science and Analytics graduate program at Georgetown University in December and am currently looking for a full-time work opportunity in the data science field. I graduated undergrad from the University of Virginia in 2022 with a degree in Statistics and Econometrics. 
 
 My interests exist in some sort of vast Euclidean space between AI/deep learning, economics, sports and sports handicapping, tech, and sustainability. I also am a marathoner, snowboarder, mountaineer, SCUBA diver, and beginner skydiver who is always up for an adventure. Enjoy your stay here and feel free to reach out about anything!
 

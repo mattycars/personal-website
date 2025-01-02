@@ -1,0 +1,23 @@
+---
+title: "An LSTM Autoencoder for Dogecoin Anomaly Detection"
+date: "2024-12-10"
+categories: [Deep Learning, Time Series, Finance]
+image: "doge.jfif"
+---
+In this project, for my Deep Learning Class (DSAN 6660), I used neural networks to predict anomalous market behavior in the Dogecoin market, a popular cryptocurrency. More specifically, I use an LSTM autoencoder. There is no other existing literature that uses these methods relating specifically to Dogecoin. My final report can be found below.
+
+<iframe 
+  width="800" 
+  height="800" 
+  src="FinalReport.pdf">
+</iframe>
+
+Below is the presentation I gave to my class and professors at the end of the semester.
+
+<iframe 
+  width="800" 
+  height="800" 
+  src="DOGECoinAnomalyDetection.pdf">
+</iframe>
+
+All code can be found at the GitHub link here: https://github.com/mattycars/DSAN_6600_Final_Project.git 

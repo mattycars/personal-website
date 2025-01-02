@@ -43,5 +43,11 @@
   },
   "resume/resume.qmd": {
     "resume.html": "46e674cd"
+  },
+  "posts/doge/index.qmd": {
+    "index.html": "95ab741b"
+  },
+  "posts/reddit/index.qmd": {
+    "index.html": "cd57e23f"
   }
 }
