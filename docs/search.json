@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "posts/horse-racing/index.html",
-    "href": "posts/horse-racing/index.html",
-    "title": "Predicting Horse Racing Winners at the Hong Kong Jockey Club (HKJC)",
+    "objectID": "posts/doge/index.html",
+    "href": "posts/doge/index.html",
+    "title": "An LSTM Autoencoder for Dogecoin Anomaly Detection",
     "section": "",
-    "text": "In this project, I predict horse racing winners and podium finishers at the Hong Kong Jockey Club. I use a variety of statistical methods including Naive Bayes, Random Forests, AdaBoost Models, and Gradient Boosting, specifically XGBoost. I was able to develop a model that, at the 1200m distance, under a specific set of race conditions, can predict horse racing finishers with around a 50% precision.\nThis project was completed as a part of DSAN 5000: Data Science and Analysis, an intro class in my first semester at Georgetown.\nThe link to project is hosted on a website found at this link."
+    "text": "In this project, for my Deep Learning Class (DSAN 6660), I used neural networks to predict anomalous market behavior in the Dogecoin market, a popular cryptocurrency. More specifically, I use an LSTM autoencoder. There is no other existing literature that uses these methods relating specifically to Dogecoin. My final report can be found below.\n\n\nBelow is the presentation I gave to my class and professors at the end of the semester.\n\n\nAll code can be found at the GitHub link here: https://github.com/mattycars/DSAN_6600_Final_Project.git"
+  },
+  {
+    "objectID": "posts/reddit/index.html",
+    "href": "posts/reddit/index.html",
+    "title": "An Exploration of Reddit Restaurant Data",
+    "section": "",
+    "text": "I completed this project with 3 other group members as a part of my Big Data and Cloud Computing Class (DSAN 6000). We used AWS and Azure to process over 1 terabyte of Reddit data in order to see if we could develop a restaraunt review mechanism using restaurant/food subreddits and natural language processing (NLP). The link to our final website can be found here.\nAll additional code can be found in this GitHub repo here."
   },
   {
     "objectID": "posts/march-madness/index.html",
@@ -32,7 +39,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Hello! Matt here. Welcome to my website. I am currently a second year graduate student in the Data Science and Analytics program at Georgetown University. I am graduating early this Winter and am currently looking for a full-time work opportunity in the data science field. I graduated undergrad from the University of Virginia in 2022 with a degree in Statistics and Econometrics.\nMy interests exist in some sort of vast Euclidean space between AI/deep learning, economics, sports and sports handicapping, tech, and sustainability. I also am a marathoner, snowboarder, mountaineer, SCUBA diver, and beginner skydiver who is always up for an adventure. Enjoy your stay here and feel free to reach out about anything!"
+    "text": "Hello! Matt here. Welcome to my website. I just graduated from the Data Science and Analytics graduate program at Georgetown University in December and am currently looking for a full-time work opportunity in the data science field. I graduated undergrad from the University of Virginia in 2022 with a degree in Statistics and Econometrics.\nMy interests exist in some sort of vast Euclidean space between AI/deep learning, economics, sports and sports handicapping, tech, and sustainability. I also am a marathoner, snowboarder, mountaineer, SCUBA diver, and beginner skydiver who is always up for an adventure. Enjoy your stay here and feel free to reach out about anything!"
   },
   {
     "objectID": "index.html",
@@ -46,7 +53,7 @@
     "href": "portfolio.html",
     "title": "Project Portfolio",
     "section": "",
-    "text": "Using Deep Learning for Avalanche Detection with Ground-Based Photography\n\n\n\n\n\n\n\nDeep Learning\n\n\n\n\n\n\n\n\n\n\n\nAug 8, 2024\n\n\n\n\n\n\n  \n\n\n\n\nAnthropogenic Climate Change and the Earth’s Changing Landscape\n\n\n\n\n\n\n\nData Viz\n\n\nSustainability\n\n\n\n\n\n\n\n\n\n\n\nMay 24, 2024\n\n\n\n\n\n\n  \n\n\n\n\nMarch Madness\n\n\n\n\n\n\n\nMachine Learning\n\n\nDeep Learning\n\n\nSports\n\n\n\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n\n\n\n\n  \n\n\n\n\nVisualizing Car Thefts in DC\n\n\n\n\n\n\n\nData Viz\n\n\nTime Series\n\n\n\n\n\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n  \n\n\n\n\nDaily Stock Market Report ETL Pipeline\n\n\n\n\n\n\n\nData Viz\n\n\nTime Series\n\n\nFinance\n\n\n\n\n\n\n\n\n\n\n\nMay 1, 2024\n\n\n\n\n\n\n  \n\n\n\n\nPredicting Horse Racing Winners at the Hong Kong Jockey Club (HKJC)\n\n\n\n\n\n\n\nMachine Learning\n\n\nSports\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\nWater Quality in the Lower James Can Help Explain Phytoplankton Levels in the Chesapeake Bay\n\n\n\n\n\n\n\nData Viz\n\n\nSustainability\n\n\nTime Series\n\n\n\n\n\n\n\n\n\n\n\nDec 15, 2023\n\n\n\n\n\n\n  \n\n\n\n\nNFL Home & Away Performance Analysis\n\n\n\n\n\n\n\nData Viz\n\n\nSports\n\n\n\n\n\n\n\n\n\n\n\nNov 23, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "An Exploration of Reddit Restaurant Data\n\n\n\n\n\n\n\nData Viz\n\n\nSustainability\n\n\n\n\n\n\n\n\n\n\n\nDec 13, 2024\n\n\n\n\n\n\n  \n\n\n\n\nAn LSTM Autoencoder for Dogecoin Anomaly Detection\n\n\n\n\n\n\n\nDeep Learning\n\n\nTime Series\n\n\nFinance\n\n\n\n\n\n\n\n\n\n\n\nDec 10, 2024\n\n\n\n\n\n\n  \n\n\n\n\nUsing Deep Learning for Avalanche Detection with Ground-Based Photography\n\n\n\n\n\n\n\nDeep Learning\n\n\n\n\n\n\n\n\n\n\n\nAug 8, 2024\n\n\n\n\n\n\n  \n\n\n\n\nAnthropogenic Climate Change and the Earth’s Changing Landscape\n\n\n\n\n\n\n\nData Viz\n\n\nSustainability\n\n\n\n\n\n\n\n\n\n\n\nMay 24, 2024\n\n\n\n\n\n\n  \n\n\n\n\nMarch Madness\n\n\n\n\n\n\n\nMachine Learning\n\n\nDeep Learning\n\n\nSports\n\n\n\n\n\n\n\n\n\n\n\nMay 15, 2024\n\n\n\n\n\n\n  \n\n\n\n\nVisualizing Car Thefts in DC\n\n\n\n\n\n\n\nData Viz\n\n\nTime Series\n\n\n\n\n\n\n\n\n\n\n\nMay 3, 2024\n\n\n\n\n\n\n  \n\n\n\n\nDaily Stock Market Report ETL Pipeline\n\n\n\n\n\n\n\nData Viz\n\n\nTime Series\n\n\nFinance\n\n\n\n\n\n\n\n\n\n\n\nMay 1, 2024\n\n\n\n\n\n\n  \n\n\n\n\nPredicting Horse Racing Winners at the Hong Kong Jockey Club (HKJC)\n\n\n\n\n\n\n\nMachine Learning\n\n\nSports\n\n\n\n\n\n\n\n\n\n\n\nDec 18, 2023\n\n\n\n\n\n\n  \n\n\n\n\nWater Quality in the Lower James Can Help Explain Phytoplankton Levels in the Chesapeake Bay\n\n\n\n\n\n\n\nData Viz\n\n\nSustainability\n\n\nTime Series\n\n\n\n\n\n\n\n\n\n\n\nDec 15, 2023\n\n\n\n\n\n\n  \n\n\n\n\nNFL Home & Away Performance Analysis\n\n\n\n\n\n\n\nData Viz\n\n\nSports\n\n\n\n\n\n\n\n\n\n\n\nNov 23, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/avalanche-detection/index.html",
@@ -75,5 +82,12 @@
     "title": "NFL Home & Away Performance Analysis",
     "section": "",
     "text": "In this project, I, along with a group, explore how NFL teams perform when they are the home team versus when they are the away team. We were able to quantify home field advantage by looking at a variety of NFL data including game-by-game data, win probabilities, and Elo ratings created by FiveThirtyEight. All code can be found here.\nBelow you will find the presentation we delivered to faculty on our analysis which provides a general overview of our project and its findings.\n\n\nAnd here is the more detailed final report we created."
+  },
+  {
+    "objectID": "posts/horse-racing/index.html",
+    "href": "posts/horse-racing/index.html",
+    "title": "Predicting Horse Racing Winners at the Hong Kong Jockey Club (HKJC)",
+    "section": "",
+    "text": "In this project, I predict horse racing winners and podium finishers at the Hong Kong Jockey Club. I use a variety of statistical methods including Naive Bayes, Random Forests, AdaBoost Models, and Gradient Boosting, specifically XGBoost. I was able to develop a model that, at the 1200m distance, under a specific set of race conditions, can predict horse racing finishers with around a 50% precision.\nThis project was completed as a part of DSAN 5000: Data Science and Analysis, an intro class in my first semester at Georgetown.\nThe link to project is hosted on a website found at this link."
   }
 ]
