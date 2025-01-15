@@ -1,0 +1,16 @@
+---
+title: "Heat Exposure White Paper"
+date: "2024-10-30"
+categories: [Sustainability]
+image: "heat.jpg"
+---
+
+I wrote this paper during my time as an intern at the Montgomery County Green Bank. It was a part of an effort of the Climate Resiliency team to start researching and brainstorming ways we can make communities, particuraly communities in and around Montgomery County, MD, more resilient to increased heat exposure incurred by climate change. The paper goes over some of the risks of heat exposure, who is most affected, and what we can do the increase their resiliency to the outlined dangers.
+
+Most of my work with the bank is sensitive and not for public consumption, but this paper is one of those projects that is okay to share. It showcases some of my writing and research abilities in addition to my passion for fighting climate change.
+
+<iframe 
+  width="800" 
+  height="800" 
+  src="he_wp.pdf">
+</iframe>

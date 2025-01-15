@@ -1,7 +1,7 @@
 ---
 title: "An Exploration of Reddit Restaurant Data"
 date: "2024-12-13"
-categories: [Data Viz, Sustainability]
+categories: [Data Viz]
 image: "reddit.jpg"
 ---
 I completed this project with 3 other group members as a part of my Big Data and Cloud Computing Class (DSAN 6000). We used AWS and Azure to process over 1 terabyte of Reddit data in order to see if we could develop a restaraunt review mechanism using restaurant/food subreddits and natural language processing (NLP). The link to our final website can be found [here](https://gu-dsan6000.github.io/fall-2024-project-team-02-1/). 
